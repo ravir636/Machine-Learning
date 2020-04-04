@@ -1,0 +1,80 @@
+[
+  {
+    "id": "3cd48a8c-62dd-4e5d-abeb-6da255008602",
+    "data": [
+      {
+        "text": "temperature pune",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1a726df2-8f12-46ae-bbe3-9729fd00b211",
+    "data": [
+      {
+        "text": "mumdai",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7fec1e16-6b22-4ab8-945d-415a87e8479f",
+    "data": [
+      {
+        "text": "mumbai",
+        "alias": "geo-city",
+        "meta": "@sys.geo-city",
+        "userDefined": false
+      },
+      {
+        "text": " temperature",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a05c418d-49ff-400a-a499-604b59879dc0",
+    "data": [
+      {
+        "text": "delhi",
+        "alias": "geo-city",
+        "meta": "@sys.geo-city",
+        "userDefined": false
+      },
+      {
+        "text": " temperature",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3056add9-8e8d-4599-b132-602485848494",
+    "data": [
+      {
+        "text": "what is Temperature for ",
+        "userDefined": false
+      },
+      {
+        "text": "pune",
+        "alias": "geo-city",
+        "meta": "@sys.geo-city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]
